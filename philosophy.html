@@ -1,7 +1,20 @@
 ---
 title: Philosophy
 layout: page
-description: "I AM THAT I AM"
 header-img: "img/philo-bg.jpg"
+multilingual: true
 ---
 
+{% include multilingual-sel.html %}
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture philo_content_en %}{% include philosophy/en.md %}{% endcapture %}
+    {{ philo_content_en | markdownify }}
+</div>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture philo_content_zh %}{% include philosophy/zh.md %}{% endcapture %}
+    {{ philo_content_zh | markdownify }}
+</div>

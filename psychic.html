@@ -2,5 +2,20 @@
 title: Psychic
 layout: page
 header-img: "img/psychic-bg.jpg"
+multilingual: true
 ---
+
+{% include multilingual-sel.html %}
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture psychic_content_en %}{% include psychic/en.md %}{% endcapture %}
+    {{ psychic_content_en | markdownify }}
+</div>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture psychic_content_zh %}{% include psychic/zh.md %}{% endcapture %}
+    {{ psychic_content_zh | markdownify }}
+</div>
 

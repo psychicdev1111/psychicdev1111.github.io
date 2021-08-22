@@ -4,3 +4,7 @@ layout: page
 header-img: "img/services-bg.jpg"
 ---
 
+<div class="post-container">
+    {% capture services_content %}{% include home/services.md %}{% endcapture %}
+    {{ services_content | markdownify }}
+</div>
