@@ -1,4 +1,4 @@
-##### Shannon Xu (psychicdev)
+##### Shannon Xu
 
 From Silicon Valley world-known tech giants to unicorn startup that went to acquisition, Shannon Xu has worked in tech industries for many years as a Software Engineer. Being brought up in an atheistic education system since childhood, she does not have any beliefs in the existence of God or gods. However, life is always unexpected and often filled with surprises. At the age of 28, Shannon started to have many intense spiritual awakening experiences, which shaked her realities completely and finally led her onto the lifelong exploration of mankind's ultimate question ---
 
