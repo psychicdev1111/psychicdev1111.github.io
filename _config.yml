@@ -4,7 +4,7 @@ SEOTitle: Psychic Dev
 #header-img: img/home-bg.jpg
 email: psychicdev1111@gmail.com
 url: "https://psychicdev.org"              # your host, for absolute URL
-form-endpoint: "mayaldlb"
+contact-form: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeLqyPhlNbz4eKlAw2nTWgSkh55tW2PbrrdWD3okD7zVlMg1w/formResponse"
 
 # Publish posts or collection documents with a future date.
 future: true
