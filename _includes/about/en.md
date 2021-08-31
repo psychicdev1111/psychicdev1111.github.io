@@ -4,7 +4,7 @@ From Silicon Valley world-known tech giants to unicorn startup that went to acqu
 
 >Who am I?
  
-Shannon does not have a firm answer to this question till this moment. Truth be told, there is no answer and this question is unknowable to mankinds. However, one can directly experience the answer when one is truly ready.
+Shannon does not have a firm answer to this question till this moment. Truth be told by saints, there is no answer and this question is unknowable to mankind. However, one can directly experience the answer when one is truly ready.
 
 - Click [here](https://psychicdev.org/2021/08/20/spiritual-awakening-experiences/) to see her initial awakening stories.
 

@@ -2,4 +2,4 @@ We are now living in a very unique cycle here on planet Earth for this universe.
 
 This world is neither good nor bad, and it can be viewed as good or bad or nothing at all depending on your mindset. We are definitely not victims of a chaotic time, we are indeed the creators of our own realities. Where there are big challenges, there also come great opportunities for people to heal, to transform and to transcend this human reality.
 
-**We are not humans that have spiritual experiences, but instead embodied spiritual beings that have human experiences**. This is the Truth that will enable us to grow spiritually as a cosmic being and live our physical lives here on Earth to our fullest potential, joyfully. 
+**We are not humans that have spiritual experiences, but instead embodied spiritual beings that have human experiences**. This is a knowing that will enable us to grow spiritually as a cosmic being and live our physical lives here on Earth to our fullest potential, joyfully. 
