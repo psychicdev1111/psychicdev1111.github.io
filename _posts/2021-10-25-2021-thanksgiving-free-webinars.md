@@ -4,10 +4,11 @@ title: "2021感恩月静心疗愈公益分享"
 subtitle: "2021 Thanksgiving Free Guided Meditation Series"
 date: 2021-10-25
 author: "Shannon"
+header-style: text
 tags: []
 ---
 
-2021年感恩月静心疗愈公益分享活动，预定在11月每周二晚上7:30pm ~ 8:40pm PST time，前40分钟为集体冥想与分享时间，结束后愿意参加Q&A的人可以继续留下，有20~30分钟的问答交流时间，共计5个Sessions。参与方式：Zoom，Meeting ID: 751 8747 0108，Passcode: whoami，感兴趣的人请回答此[问卷调查](https://forms.gle/5nZNMZiCw2ePreeu5)。
+2021年感恩月静心疗愈公益分享活动，预定在11月每周二晚上7:30pm ~ 8:40pm PST time，前40分钟为集体冥想与分享时间，结束后愿意参加Q&A的人可以继续留下，有20~30分钟的问答交流时间，共计5个Sessions。参与方式：Zoom，Meeting ID: 751 8747 0108，Passcode: whoami，感兴趣的人请回答此**问卷调查**(已过期)。
 
 鉴于本问卷不搜集大家的邮箱地址，请大家将活动时间自行加入自己的Calendar（11/2, 11/9, 11/16, 11/23, 11/30)。大家可以选择参加全部Sessions，或按自己的时间自由选择某一个或几个Sessions来参加。本次活动重在轻松的体验，而非过度知识分享。主办人会根据当下的流动与指引来分享和引导冥想，与每位参与者组成的同一生命场共振。
 
