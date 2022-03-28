@@ -3,7 +3,7 @@ layout: post
 title: "Spiritual Awakening experiences"
 subtitle: "Life at the turning point"
 date: 2021-08-20
-author: "Shannon"
+author: "PsychicDev"
 multilingual: true
 catalog: true
 header-style: text
