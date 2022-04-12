@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "疾病篇之一 人为什么会生病"
-subtitle: "Dis-eases: why do people get sick"
+title: "疾病篇 (一) 人为什么会生病"
+subtitle: "Dis-eases: Why do people get sick"
 date: 2022-04-11
 author: "Shannon"
 header-style: text

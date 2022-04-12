@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "走哪一条路最好"
+title: "修行走哪一条路最好"
 subtitle: "Which way is the best path"
 date: 2022-03-28
 author: "Shannon"
