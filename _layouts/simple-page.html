@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% include intro-header.html type='simple-page' %}
+
+<!-- Main Content -->
+<div class="container">
+  <div class="row">
+    {% if site.sidebar == false %}
+    <!-- NO SIDEBAR -->
+    <!-- PostList Container -->
+    <div class="col-lg-8 col-md-10 postlist-container">
+      {{ content }}
+    </div>
+    <!-- Sidebar Container -->
+    <div class="col-lg-8 col-md-10 sidebar-container">
+      <!-- Featured Tags -->
+      {% include featured-tags.html %}
+
+      <!-- Friends Blog -->
+      {% include friends.html %}
+    </div>
+    {% else %}
+    {% endif %}
+  </div>
+</div>
+
+
+
+
