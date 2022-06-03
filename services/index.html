@@ -5,7 +5,16 @@ header-img: "img/services-bg.jpg"
 header-mask: 0.15
 ---
 
-<!-- Service Grid Section -->
+<div class="container">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 text-justify">
+        <div class="post-container">
+            {% capture home_content %}{% include home/services.md %}{% endcapture %}
+            {{ home_content | markdownify }}
+        </div>
+    </div>
+</div>
+
+<!-- Service Grid Section
 <section id="service">
     <div class="container service-flex-grid">
         <hr>
@@ -45,3 +54,5 @@ header-mask: 0.15
         </div>
     </div>
 </section>
+-->
+

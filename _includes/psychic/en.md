@@ -1,4 +1,4 @@
-When you come to the word “Psychic”...
+<p style="font-size: 24px;">When you come to the word “Psychic”...</p>
 
 >Emm… Tarot cards? Gypsy ladies? Palm readings?\
 Or… Crystal balls? Candles?  Some sort of colorful elixirs in little bottles?\
@@ -29,6 +29,7 @@ How about Demon?\
 How about Religion?\
 How about Death?\
 How about Darkness?\
+How about Karma?\
 How about  …
 
 Try it out. Allow the words return to a **neutral and non-judgemental** state in you. If you are not able to do so immediately, give yourself acceptance and compassion too. **It is all okay.**

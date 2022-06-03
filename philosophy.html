@@ -1,20 +1,23 @@
 ---
 title: Philosophy
-layout: page
+layout: simple-page
 header-img: "img/philo-bg.jpg"
 multilingual: true
 ---
 
 {% include multilingual-sel.html %}
+<div class="container">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 text-justify">
+        <!-- English Version -->
+        <div class="en post-container">
+            {% capture philo_content_en %}{% include philosophy/en.md %}{% endcapture %}
+            {{ philo_content_en | markdownify }}
+        </div>
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture philo_content_en %}{% include philosophy/en.md %}{% endcapture %}
-    {{ philo_content_en | markdownify }}
-</div>
-
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture philo_content_zh %}{% include philosophy/zh.md %}{% endcapture %}
-    {{ philo_content_zh | markdownify }}
+        <!-- Chinese Version -->
+        <div class="zh post-container">
+            {% capture philo_content_zh %}{% include philosophy/zh.md %}{% endcapture %}
+            {{ philo_content_zh | markdownify }}
+        </div>
+    </div>
 </div>

@@ -1002,9 +1002,9 @@ samp {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 20px;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 1px;
 }
 .navbar-custom .nav li a:active {
@@ -1020,7 +1020,7 @@ samp {
   }
   .navbar-custom .navbar-brand {
     color: white;
-    padding: 20px;
+    padding: 30px;
     line-height: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -1029,7 +1029,7 @@ samp {
   }
   .navbar-custom .nav li a {
     color: white;
-    padding: 20px;
+    padding: 30px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {

@@ -1,6 +1,6 @@
 ---
 title: Psychic
-layout: page
+layout: simple-page
 header-img: "img/psychic-bg.jpg"
 header-mask: 0.15
 multilingual: true
@@ -8,15 +8,20 @@ multilingual: true
 
 {% include multilingual-sel.html %}
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture psychic_content_en %}{% include psychic/en.md %}{% endcapture %}
-    {{ psychic_content_en | markdownify }}
-</div>
+<div class="container">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 text-justify">
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture psychic_content_zh %}{% include psychic/zh.md %}{% endcapture %}
-    {{ psychic_content_zh | markdownify }}
+        <!-- English Version -->
+        <div class="en post-container">
+            {% capture psychic_content_en %}{% include psychic/en.md %}{% endcapture %}
+            {{ psychic_content_en | markdownify }}
+        </div>
+
+        <!-- Chinese Version -->
+        <div class="zh post-container">
+            {% capture psychic_content_zh %}{% include psychic/zh.md %}{% endcapture %}
+            {{ psychic_content_zh | markdownify }}
+        </div>
+    </div>
 </div>
 
