@@ -5,6 +5,7 @@ subtitle: "The Word Dilemma"
 date: 2022-02-23
 author: "Shannon"
 header-img: "img/bg-post/20220223_hieroglyphs.jpg"
+header-mask: 0.15
 tags: []
 ---
 
