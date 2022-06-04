@@ -10,7 +10,7 @@ header-style: text
 tags: []
 ---
 <div class="container">
-    <div class="col-lg-8 col-md-10 text-justify">
+    <div class="col-lg-8 col-md-10">
 
         <!-- Chinese Version -->
         <div class="zh post-container">
