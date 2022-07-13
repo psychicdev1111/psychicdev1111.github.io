@@ -6,7 +6,7 @@ date: 2022-02-23
 author: "Shannon"
 header-img: "img/bg-post/20220223_hieroglyphs.jpg"
 header-mask: 0.15
-tags: [文字, 信息, 知识, 真实, 能量, 意识]
+tags: []
 ---
 
 >In the beginning was the Word.

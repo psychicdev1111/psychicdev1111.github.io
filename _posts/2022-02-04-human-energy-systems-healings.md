@@ -5,7 +5,7 @@ subtitle: "Human Energy Systems and Different Healing Techniques"
 date: 2022-02-04
 author: "Shannon"
 header-style: text
-tags: [能量系统, 疗愈技术, 三脉七轮, 经络, 气脉, 周天, 瑜伽, 元素净化, 新时代, 出离者 , 沉浸者]
+tags: []
 ---
 
 在年底的感恩月静坐疗愈分享中，其中一个Session在“在”的流动下我们讨论了不同的人体能量系统和疗愈的维度。现在把它简单整理下来，希望给更多的入门者带来一点帮助。
