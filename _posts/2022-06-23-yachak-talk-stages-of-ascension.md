@@ -5,7 +5,7 @@ subtitle: "Yachak talks: seven stages to ascension"
 date: 2022-06-23
 author: "Shannon"
 header-style: text
-tags: []
+tags: [扬升, 证悟, 修行次第, 真实, 成道者]
 ---
 
 #### 初醒阶段
