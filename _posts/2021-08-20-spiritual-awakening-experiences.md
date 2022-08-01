@@ -7,7 +7,7 @@ author: "PsychicDev"
 multilingual: true
 catalog: true
 header-style: text
-tags: []
+tags: ["灵性觉醒", "扬升症状", "觉醒", "人生转变"]
 ---
 <div class="container">
     <div class="col-lg-8 col-md-10">
