@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(转载）到达扬升的七个阶段"
+title: "(转载) 到达扬升的七个阶段"
 subtitle: "Yachak talks: seven stages to ascension"
 date: 2022-06-23
 author: "Shannon"

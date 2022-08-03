@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(转载）奥修对当代大师们的评论"
+title: "(转载) 奥修对当代大师们的评论"
 subtitle: "Osho talks about contemporary spiritual masters"
 date: 2022-03-28
 author: "Shannon"
